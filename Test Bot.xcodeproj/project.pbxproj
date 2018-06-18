@@ -442,8 +442,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: aebrahim@talabat.com (YZP2KX8AFT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Talabat K (CMCLBPWBZC)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Talabat K (CMCLBPWBZC)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 3MT967VXY3;
 				INFOPLIST_FILE = "Test Bot/Info.plist";
@@ -461,8 +461,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: aebrahim@talabat.com (YZP2KX8AFT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Talabat K (CMCLBPWBZC)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Talabat K (CMCLBPWBZC)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 3MT967VXY3;
 				INFOPLIST_FILE = "Test Bot/Info.plist";
