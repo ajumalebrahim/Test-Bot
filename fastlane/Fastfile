@@ -16,6 +16,6 @@ platform :ios do
   lane :getBuild do
     # add actions here: https://docs.fastlane.tools/actions
 UI.message('*************************************************')
-    gym(scheme: 'Test Bot', export_method: 'development')
+gym(scheme: 'Test Bot', configuration:'Debug', export_method: 'development')
   end
 end
